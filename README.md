@@ -4,4 +4,4 @@ This work can uncover very weak signals from the highly strong noise, and thus e
 
 This work has been submitted to Journal of Geophysical Research (JGR): Solid Earth.
 
-We are in the process of organizing the data sets and trained models and are ready to upload them to Github.
+We are in the process of organizing the data sets and trained models and are ready to upload them to Github. Then, the results in the paper can be easily reproduced
