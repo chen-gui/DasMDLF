@@ -9,6 +9,8 @@ Uploading data to GitHub is tough — I have to rely on mobile data (hotspot), a
 # FORGE data
 The raw FORGE DAS data are freely available in the GitHub repository: https://github.com/chenyk1990/dasdenoising-dataonly
 
+The catalogs for earthquakes in FORGE data are freely available in the GitHub repository: https://github.com/ariellellouch/FORGE
+
 
 # SAFOD data
 The raw SAFOD DAS data are freely available in the GitHub repository: https://github.com/ariellellouch/DASDetection and https://github.com/chenyk1990/dasmrrcoh-dataonly
